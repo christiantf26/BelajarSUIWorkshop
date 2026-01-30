@@ -1,0 +1,18 @@
+# Build directory
+build/
+
+# Node modules (if using)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+.sui/
