@@ -7,3 +7,4 @@ edition = "2024"
 [addresses]
 suiworkshop = "0x0"
 suiworkshoptoken = "0x0"
+

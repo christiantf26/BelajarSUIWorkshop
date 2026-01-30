@@ -1,9 +1,8 @@
 [package]
-name = "suiworkshop"
+name = "wowowi_coin"
 edition = "2024"
 
 [dependencies]
 
 [addresses]
-suiworkshop = "0x0"
 suiworkshoptoken = "0x0"
